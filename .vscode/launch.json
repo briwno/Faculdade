@@ -1,0 +1,78 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "tela",
+            "request": "launch",
+            "mainClass": "tela",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
+            "name": "lotofacil",
+            "request": "launch",
+            "mainClass": "lotofacil.lotofacil",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
+            "name": "LoteriaV0",
+            "request": "launch",
+            "mainClass": "LoteriaV0",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
+            "name": "calculadora",
+            "request": "launch",
+            "mainClass": "calculadora",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "swing.Calculadora",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
+            "name": "calculadora",
+            "request": "launch",
+            "mainClass": "swing.calculadora",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
+            "name": "swing",
+            "request": "launch",
+            "mainClass": "swing.swing",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
+            "name": "projeto",
+            "request": "launch",
+            "mainClass": "projeto",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "java_e36a03af",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
