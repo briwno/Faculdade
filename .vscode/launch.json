@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LotofacilProject.Main",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
+            "name": "MainView",
+            "request": "launch",
+            "mainClass": "LotofacilProject.view.MainView",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
+            "name": "LoginView",
+            "request": "launch",
+            "mainClass": "LotofacilProject.view.LoginView",
+            "projectName": "java_e36a03af"
+        },
+        {
+            "type": "java",
             "name": "tela",
             "request": "launch",
             "mainClass": "tela",
